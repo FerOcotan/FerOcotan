@@ -37,7 +37,8 @@ export default AboutMe;
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+
+
 
 <h2>  About me </h2>
   
@@ -48,6 +49,8 @@ Visit my LinkedIn: https://www.linkedin.com/in/ferocotan
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Current Skills</b>
 <br>
+
+<img align="right" width="450" alt="Imagen de WhatsApp" src="https://github.com/user-attachments/assets/31c15320-f4ec-4f07-9793-5e06d54186eb" />
 
 - <h4>Languages</h4>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" />
@@ -90,17 +93,14 @@ Visit my LinkedIn: https://www.linkedin.com/in/ferocotan
 </br></br>
 
 
-<div align="right">
-  <img src="https://github.com/user-attachments/assets/31c15320-f4ec-4f07-9793-5e06d54186eb" alt="Imagen de WhatsApp" />
-</div>
-
 
 
 
 <h1 align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBrZmRyNXFmd2Z1amE0ODMzbHh5cmU3ZDdwaHdoNzA1dHc3NGMwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j5QUSpXVuwtr2/giphy.gif" width="300">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBrZmRyNXFmd2Z1amE0ODMzbHh5cmU3ZDdwaHdoNzA1dHc3NGMwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j5QUSpXVuwtr2/giphy.gif" width="300" />
+</h1>
 
-  <p align="center">
+<p align="center">
   <a href="https://github.com/FerOcotan">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=FFFF&size=20&center=true&vCenter=true&width=600&height=100&lines=Humanity+was+born+on+Earth.;It+was+never+meant+to+die+here.">
   </a>

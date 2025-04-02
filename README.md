@@ -20,7 +20,7 @@ const AboutMe = () => {
   const field = "Frontend Development";
   const study = "Computer Systems Engineering";
   const location = "Santa Ana, El Salvador";
-  const linkedin = "https://www.linkedin.com/in/ferocotan"; // Tu LinkedIn
+  const linkedin = "https://www.linkedin.com/in/ferocotan"; 
 
   return (
     <div>
